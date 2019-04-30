@@ -1,0 +1,11 @@
+body {
+    min-width: 125px;
+    position: relative;
+    vertical-align: middle;
+    background-image: url("images/flag.jpg");
+    background-color: red;
+}
+
+button {
+    min-width: 30px;
+}
